@@ -73,6 +73,3 @@ This repo currently includes the **workbooks**, **folder scaffolding scripts**, 
 
 ---
 
-## 📝 License
-
-Choose a license that matches your distribution intent (e.g., **MIT** for code, **CC BY 4.0** for docs) and add a `LICENSE` file at the repo root.
