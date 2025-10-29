@@ -36,7 +36,7 @@ I’ve done **extensive research** and built **sample templates for every docume
    - **Startup (Basic)** – essential minimums for early teams.
    - **SME (Medium)** – scaled controls readying you for ISO/SOC 2.
    - **Advanced (Practitioner)** – full ISMS scope with SoA, audits, BIA/BCP/DR.
-   - 
+     
 <img width="2479" height="1125" alt="Screenshot 2025-10-29 232350" src="https://github.com/user-attachments/assets/d989fc8d-542c-4fbb-b7a5-d4921db9f9f7" />
 
 2. **Generate folders**
@@ -60,12 +60,6 @@ I’ve done **extensive research** and built **sample templates for every docume
 
 ---
 
-## 🖼️ Screenshots
-
-_Add your screenshots here (workbooks, folder structures, template front pages, dashboards)._
-
----
-
 ## 🧭 What I learned from this project
 
 - **Operationalizing GRC beats theory:** clear folder structures + embedded “how-to” pages reduce ambiguity and speed up adoption.  
@@ -75,19 +69,10 @@ _Add your screenshots here (workbooks, folder structures, template front pages, 
 
 ---
 
-## 🛠️ Upgrades in progress
-
-- PowerShell & Bash scaffolders (prompts, safety checks, date-stamping)  
-- **Evidence Binder Index** + smart PBC tracker integrated with the catalog  
-- SOC 2 narrative shells (CC1–CC9) aligned to the control catalog  
-- Git-friendly `.gitattributes` / `.gitignore` for policy repos  
-- Optional CI (GitHub Actions) to nudge owners before review due dates
-
----
-
 ## 🤝 Availability
 
 I’m making the **entire toolkit freely available to the community soon**.  
+
 This repo currently includes the **workbooks**, **folder scaffolding scripts**, and **starter templates with embedded guides**, with more templates and automation landing in upcoming updates.
 
 ---
