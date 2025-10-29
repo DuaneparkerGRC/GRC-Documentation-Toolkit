@@ -22,11 +22,7 @@
 I’ve done **extensive research** and built **sample templates for every document**.  
 **Each template includes a one-page “How to Prepare” guide right on page 1** (scope, inputs, reviewers, approval, versioning, maintenance).
 
-- **Templates root:** [`/templates/`](/templates/)
-- **Workbooks (catalogs + folder maps):** [`/workbooks/`](/workbooks/)
-- **Scaffolding scripts (.bat):** [`/scripts/`](/scripts/)
-
-> In the **Document Catalog workbook** (`/workbooks/Cyber_GRC_Document_Catalog_*.xlsx`), every row includes a **hyperlink** to its template so you can open the file and follow the embedded guide immediately. The catalog also tracks **Owner**, **Cadence**, **Frameworks**, and **Evidence** for each artifact.
+> In the **Document Catalog workbook** every row includes a **hyperlink** to its template so you can open the file and follow the embedded guide immediately. The catalog also tracks **Owner**, **Cadence**, **Frameworks**, and **Evidence** for each artifact.
 
 ---
 
