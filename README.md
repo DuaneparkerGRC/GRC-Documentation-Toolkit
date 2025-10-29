@@ -15,6 +15,7 @@
 - **Batch Scripts (.bat):** one-click generators to scaffold the trees on Windows.
 
 ---
+<img width="2305" height="1063" alt="Screenshot 2025-10-29 232208" src="https://github.com/user-attachments/assets/20619cc8-1076-4a14-810d-c36e5b710226" />
 
 ## 🧩 Templates with Embedded Prep Guides
 
@@ -35,11 +36,14 @@ I’ve done **extensive research** and built **sample templates for every docume
    - **Startup (Basic)** – essential minimums for early teams.
    - **SME (Medium)** – scaled controls readying you for ISO/SOC 2.
    - **Advanced (Practitioner)** – full ISMS scope with SoA, audits, BIA/BCP/DR.
+   - 
+<img width="2479" height="1125" alt="Screenshot 2025-10-29 232350" src="https://github.com/user-attachments/assets/d989fc8d-542c-4fbb-b7a5-d4921db9f9f7" />
 
 2. **Generate folders**
+
    - Use the `.bat` scripts in [`/scripts/`](/scripts/) to scaffold the tree (optionally pass a target path).
 
-3. **Open the workbook**
+5. **Open the workbook**
    - Prioritize in **Document Catalog**.
    - Follow paths in **Folder Structure**.
    - Populate templates; store **evidence** in the dated folders created by the scripts.
