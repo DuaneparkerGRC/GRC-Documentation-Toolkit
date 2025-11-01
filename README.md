@@ -1,6 +1,6 @@
 # GRC Documentation Tool Kit
 
-**Production-ready starter kit to stand up a Security Governance, Risk & Compliance (GRC) program**—from policies and control catalogs to audit-ready evidence packs—tailored for **Startup**, **SME**, and **Advanced/Enterprise** teams.
+**Production-ready starter kit to stand up a Security Governance, Risk & Compliance (GRC) program** -from policies and control catalogs to audit-ready evidence packs—tailored for **Startup**, **SME**, and **Advanced/Enterprise** teams.
 
 > Built by Dulara Paranawidana GRC specialist to make real-world compliance *practical*: consistent folder structures, lean templates with embedded “how-to” pages, evidence indexes, and automation hooks.
 
